@@ -1,4 +1,4 @@
-# EXPERIMENT 2 :-Control of Relay Using IoT controller
+# EXPERIMENT-2 Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
