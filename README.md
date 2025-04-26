@@ -65,21 +65,3 @@ ON
 ## RESULT:
 
 Thus the relay is controlled using Arduino controller.
-
-
-
-## CIRCUIT DIAGRAM:
-![ex2 pic c](https://github.com/user-attachments/assets/5084cf40-6b9d-4160-95be-ac5248d37146)
-
-## OUTPUT:
-OFF
-
-![ex2 pic i](https://github.com/user-attachments/assets/9d6af7c2-2a22-44e6-81b1-5f97476efa14)
-
-ON
-
-![ex2 pic o](https://github.com/user-attachments/assets/05971bb1-b429-4eb5-ab77-3b7acd575c0d)
-
-## RESULT:
-
-Thus the relay is controlled using Arduino controller.
